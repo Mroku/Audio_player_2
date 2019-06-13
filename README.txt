@@ -1,14 +1,21 @@
 Program do oddtwarzania muzyki 
 
-pliki z rozszerzeniem .wav (lub innym) s¹ umieszczone w folderze PlayList, program oddtwarza te pliki. (nie s¹ obs³ugiwane pliki .mp3 ze wzglêdu na p³atn¹ licencjê)
+pliki z rozszerzeniem .wav (lub innym) sÅ¡ umieszczone w folderze PlayList, program oddtwarza te pliki. (nie sÅ¡ obsÅ‚ugiwane pliki .mp3 ze wzglÄ™du na pÅ‚atnÅ¡ licencjÄ™)
 
-obs³uga na t¹ chwilê wygl¹da nastêpuj¹co: 
+obsÅ‚uga na tÅ¡ chwilÄ™ wyglÅ¡da nastÄ™pujÅ¡co: 
 
-N - nastêpny utwór
-B - Poprzedni utwór
+N - nastÄ™pny utwÃ³r
+B - Poprzedni utwÃ³r
 P - Zatrzymaj
-O - oddtwórz
+O - oddtwÃ³rz
 ESC - zamknij
+
+
+Konfiguracjia SFML:
+https://www.youtube.com/watch?v=y32fqh7NtH4
+
+SFML do pobrania:
+https://www.sfml-dev.org/
 
 
 
